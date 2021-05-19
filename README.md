@@ -130,7 +130,7 @@ See the [open issues](https://github.com/whyster/Stock_Trading_Simulation/issues
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -169,18 +169,18 @@ Project Link: [https://github.com/whyster/Stock_Trading_Simulation](https://gith
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/whyster/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/whyster/Stock_Trading_Simulation.svg?style=for-the-badge
 [contributors-url]: https://github.com/whyster/Stock_Trading_Simulation/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/whyster/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/whyster/Stock_Trading_Simulation.svg?style=for-the-badge
 [forks-url]: https://github.com/whyster/Stock_Trading_Simulation/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/whyster/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/whyster/Stock_Trading_Simulation.svg?style=for-the-badge
 [stars-url]: https://github.com/whyster/Stock_Trading_Simulation/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/whyster/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/whyster/Stock_Trading_Simulation.svg?style=for-the-badge
 [issues-url]: https://github.com/whyster/Stock_Trading_Simulation/issues
 
-[license-shield]: https://img.shields.io/github/license/whyster/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/whyster/Stock_Trading_Simulation.svg?style=for-the-badge
 [license-url]: https://github.com/whyster/Stock_Trading_Simulation/blob/main/LICENSE
 
