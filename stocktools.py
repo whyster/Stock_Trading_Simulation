@@ -14,6 +14,7 @@ class TrendGenerator:
         self.grow_steps = 0
         self.grow_rate = 0
         self.value = 0
+        # self.random = random.Random()
 
     def __iter__(self):
         self.grow_steps = 0
